@@ -40,8 +40,8 @@ The dataset used for training the model includes the following attributes:
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/flight-delay-prediction.git
-   cd flight-delay-prediction
+   git clone https://github.com/kashmira92/Flight_Delay_Machine_Learning.git
+   cd Flight_Delay_Machine_Learning
    ```
 2. Install the required libraries:
    ```sh
